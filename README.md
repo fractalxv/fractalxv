@@ -5,6 +5,7 @@
 <h3 align="left">Connect with me!:</h3>
 <p align="left">
 <a href="https://instagram.com/maii.ra_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maii.ra_" height="30" width="40" /></a>
-<a href="https://t.me/maiifurai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="mxiirx" height="30" width="40" /></a> ![Alt Text](https://media.giphy.com/media/oSwcTWom8isyA/giphy.gif)
+<a href="https://t.me/maiifurai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="mxiirx" height="30" width="40" /></a>
+  <img src=https://media.giphy.com/media/oSwcTWom8isyA/giphy.gif/>
 </p>
 
