@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/mxiirxx/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="myra" height="30" width="40" /></a>
 </p>
  <br>
-  <img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width="200" height="190"/>
+  <img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width="200" height="170"/>
 
 </p>
 
