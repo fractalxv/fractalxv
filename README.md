@@ -8,7 +8,7 @@
 <a href="https://t.me/maiifurai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="mxiirx" height="30" width="40" /></a>
  </p>
  <br>
-  <img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width="200" height="100"/>
+  <img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width="200" height="190"/>
 
 </p>
 
