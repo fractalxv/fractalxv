@@ -4,9 +4,9 @@
 
 <h3 align="left">Connect with me!:</h3>
 <p align="left">
-<a href="https://instagram.com/maii.ra_" target="blank"><img align="center" src="<img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/>g" alt="maii.ra_" height="30" width="40" /></a>
-<a href="https://t.me/maiifurai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="myra" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mxiirxx/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="myra" height="30" width="40" /></a>
+<a href="https://instagram.com/maii.ra_" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="maii.ra_" height="30" width="40" /></a>
+<a href="https://t.me/maiifurai" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/facebook-new.png" alt="myra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mxiirxx/" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/telegram-app.png" alt="myra" height="30" width="40" /></a>
 </p>
  <br>
   <img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width="200" height="170"/>
