@@ -2,7 +2,7 @@
  -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxiirx&label=Profile%20views&color=0e75b6&style=flat" alt="mxiirx" /> </p> -->
 <!-- <img align='right' src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width="200" height="170"/> -->
-<img align='right' src="https://assets.pinterest.com/ext/embed.html?id=227080006182409555" height="445" width="345" frameborder="0" scrolling="no"/>
+<img align='right' src="https://assets.pinterest.com/ext/embed.html?id=227080006182409555" height="336" width="236"/>
 
 ## connect with me!😳👋🏻
 <a href="https://www.facebook.com/mxiirxx/" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/facebook-new.png" alt="myra" height="40" width="40" /></a>
