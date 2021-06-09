@@ -13,7 +13,7 @@
  <a href="https://www.facebook.com/mxiirxx/" target="blank"><img align="center" src="https://img.shields.io/badge/%20-%230077B5.svg?&style=for-the-badge&logo=Facebook&logoColor=white"></a>
  <a href="https://t.me/maiifurai" target="blank"><img align="center" src="https://img.shields.io/badge/%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"></a>
  <br>-->
-  <img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width="200" height="170"/>
+  <img align='right' src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width="200" height="170"/>
 
 </p>
 
