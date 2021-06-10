@@ -20,8 +20,7 @@
 
 ### 🍀About me...
 
-```sh
-#!/bin/sh
+```go
 type Me struct{
   Job string
 }
