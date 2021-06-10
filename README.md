@@ -27,7 +27,8 @@ type Me struct{
 
 func main() {
   me := &Me{
-    Job: "idk bro i share meme a lot instead of code",
+    Job: "idk bro i either take a nap or share meme a lot 
+          instead of code",
   }
   _ = me
 }
