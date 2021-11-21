@@ -4,7 +4,7 @@
 ### Learning in progress...
 
 
-```🍀 indie game dev```
+```🍀 industrial concept art ```
 <br>
 ```📝 frontend enthusiast```
 
