@@ -1,5 +1,5 @@
 <!-- <h1 align="left">connect with me!😳👋🏻</h1>  -->
-<img src=https://c.tenor.com/f8hp46hlsTMAAAAC/kal2447-kal.gif width='400' align="left"> 
+<img src=https://c.tenor.com/cLZu-9wCoJQAAAAC/yotsubato.gif width='400' align="left"> 
 
 ## Learning in progress...
 
