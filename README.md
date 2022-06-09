@@ -4,7 +4,7 @@
 # Learning in progress🍀🍀🍀
 
 
-```🍀 senior year college student```
+```🍀 undergrad college student```
 <br>
 ```🍀 trying my best! :D ```
 
