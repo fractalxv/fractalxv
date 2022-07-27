@@ -6,8 +6,6 @@
 
 ```🍀 undergrad college student```
 <br>
-```🍀 trying my best! :D ```
-<br>
 ```
  curl https://keybase.io/0fractalx/pgp_keys.asc | gpg --import
 ```
