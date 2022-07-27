@@ -1,7 +1,7 @@
 <!-- <h1 align="left">connect with me!😳👋🏻</h1>  -->
 <img src=https://c.tenor.com/cLZu-9wCoJQAAAAC/yotsubato.gif width='350' align="left"> 
 
-# Learning in progress🍀🍀🍀
+## Learning in progress🍀🍀🍀
 
 
 ```🍀 undergrad college student```
