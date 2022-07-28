@@ -1,10 +1,11 @@
 <!-- <h1 align="left">connect with me!😳👋🏻</h1>  -->
-<img src=https://c.tenor.com/cLZu-9wCoJQAAAAC/yotsubato.gif width='350' align="left"> 
+<img src=https://c.tenor.com/cLZu-9wCoJQAAAAC/yotsubato.gif width='350' align="right"> 
 
 ## Learning in progress🍀🍀🍀
 
 
 ```🍀 undergrad college student```
+```🔑 gpg public key below```
 <br>
 ```
  curl https://keybase.io/0fractalx/pgp_keys.asc | gpg --import
