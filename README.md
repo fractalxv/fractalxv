@@ -6,6 +6,8 @@
 
 ```🍀 undergrad college student```
 <br>
+```😄 wanderer```
+<br>
 ```🔑 my public key```
 [here](https://pastebin.com/raw/7ARxm0G8)
 
