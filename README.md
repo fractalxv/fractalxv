@@ -6,9 +6,7 @@
 
 ```🍀 undergrad college student```
 <br>
-```😄 wanderer```
-<br>
-```🔑 my public key```
+```🔑 my key```
 [here](https://pastebin.com/raw/7ARxm0G8)
 
 <!-- <img src="https://c.tenor.com/2PkVFyE0PbEAAAAC/yotsubato-guruguru.gif" width='240'>  -->
