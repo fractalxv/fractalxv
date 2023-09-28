@@ -3,9 +3,6 @@
 
 ## Learning in progress🍀🍀🍀
 
-
-```🍀 undergrad college student```
-<br>
 ```🔑 my key```
 [here](https://pastebin.com/raw/7ARxm0G8)
 
